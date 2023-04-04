@@ -11,7 +11,7 @@
 [2020 Homelab](https://github.com/jscar-hawk/hawksiview/blob/main/blog/lab_hardware.adoc)
 
 
-[2023 Homelab](https://github.com/jscar-hawk/hawksiview/blob/main/blog/2023-Hardware-Recomendations.adoc)
+[2023 Hardware Recommendations](https://github.com/jscar-hawk/hawksiview/blob/main/blog/2023-Hardware-Recommendations.md)
 
 
 [Podcasting/AV Gear Recommendation](https://github.com/jscar-hawk/hawksiview/blob/main/blog/Podcast_Hardware.adoc)
