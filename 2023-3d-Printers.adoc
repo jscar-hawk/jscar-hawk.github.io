@@ -7,6 +7,7 @@ Theses are products that I use and recommend!
 
 == Official Creality Ender 3 V2
 https://amzn.to/434Gp5D - Amazon Affiliate links
+
 https://www.creality.com/products/ender-3-v2-3d-printer-csco
 
 * Manual Bed Leveling
@@ -19,6 +20,7 @@ https://www.creality.com/products/ender-3-v2-3d-printer-csco
 
 == Official Creality Ender 3 V2 Neo
 https://amzn.to/3MBApvZ - Amazon Affiliate links
+
 https://www.creality.com/products/ender-3-v2-neo-3d-printer
 
 * 3 Step Easy Assembly
