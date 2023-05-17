@@ -11,6 +11,18 @@ Refurb Lenovo ThinkPad T480 14 HD Laptop
 * $214 at time or writting
 * https://amzn.to/3p5q2av 
 
+= $400 Range
+
+Beelink SER5 PRO 5800H
+
+* CPU: AMD Ryzen 7 5800H (3.2GHz~4.4GHz,8-Core/16-Threads, L2 /4MB L3 /16MB)
+* Graphics/GPU: AMD Radeon Graphics 8core 2000 MHz GPU
+* RAM: 16GB SO-DIMM DDR4
+* Storage: 500GB M.2 NVMe SSD
+* Cost: $335 (With Prime in the US)
+* Youtube: Beelink SER5 Pro 5800H: Affordable 8-core 45W MiniPC[https://www.youtube.com/watch?v=NYGLgwFCLWk]
+* https://amzn.to/42Cze4W
+
 = Small Form Factor
 
 Beelink has lighting sales all the time
@@ -25,4 +37,6 @@ Refurb HP 800 G3
 * 1TB NVMe
 * $232 at time or writting
 * https://amzn.to/3Vs5Jjz
+
+
 
