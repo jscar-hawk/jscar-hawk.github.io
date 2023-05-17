@@ -9,7 +9,7 @@ Theses are products that I use and recommend!
 https://amzn.to/434Gp5D - Amazon Affiliate links
 https://www.creality.com/products/ender-3-v2-3d-printer-csco
 
-* CR Touch Auto Bed Leveling
+* Manual Bed Leveling
 * Print Bed: Glass Bed with 1 side textured
 * Build Volume 220 x 220 x 250 mm
 * Supported materials: PLA, TPU, PET
