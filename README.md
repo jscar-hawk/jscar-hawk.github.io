@@ -25,3 +25,5 @@
 [SCALE20x Staying RHELevant  In Your Home Lab - Presentation PDF](https://github.com/jscar-hawk/jscar-hawk.github.io/blob/45eebc396aaac5ec7955fba1bd63c092695978ba/SCALE20x_Staying_RHELevant%20_In_Your_Homelab_By_Jscar_Hawk.pdf)
 
 [SCALE20x Staying RHELevant  In Your Home Lab - Video](https://www.youtube.com/watch?v=rt2DCLRda1g)
+
+[2023 3D Printer Recomendations](https://github.com/jscar-hawk/jscar-hawk.github.io/blob/main/2023-3d-Printers.adoc)
