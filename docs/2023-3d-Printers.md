@@ -8,7 +8,9 @@ his will let amazon know I sent you, and give me a small kickback if you buy tha
 None of these are sponsorship, they do not get to see what I am saying about the products before I post online. 
 Theses are products that I use and recommend!
 
-== Official Creality Ender 3 V2
+# 3D Printers to consider
+
+## Official Creality Ender 3 V2
 https://amzn.to/434Gp5D - Amazon Affiliate links
 
 https://www.creality.com/products/ender-3-v2-3d-printer-csco
@@ -21,7 +23,7 @@ https://www.creality.com/products/ender-3-v2-3d-printer-csco
 * https://www.youtube.com/watch?v=IR5RAaroMpw
 
 
-== Official Creality Ender 3 V2 Neo
+## Official Creality Ender 3 V2 Neo
 https://amzn.to/3MBApvZ - Amazon Affiliate links
 
 https://www.creality.com/products/ender-3-v2-neo-3d-printer
@@ -34,7 +36,7 @@ https://www.creality.com/products/ender-3-v2-neo-3d-printer
 * Supported materials: PLA, PET, ABS
 * Price $300 - $400
 
-== Sovol SV07
+## Sovol SV07
 https://sovol3d.com/products/sovol-sv07-klipper-direct-drive-3d-printer-print-speed-250mm-s
 
 * 25 minute Easy Assembly
@@ -47,7 +49,7 @@ https://sovol3d.com/products/sovol-sv07-klipper-direct-drive-3d-printer-print-sp
 * [Sovol SV07 Build and First Print Video](https://www.youtube.com/watch?v=qoD-9TXEWgM)
 
 
-== Original Prusa MK4 kit
+## Original Prusa MK4 kit
 https://www.prusad.com/product/original-prusa-mk4-kit-2/
 
 * 6-11 hours assembly time
@@ -59,7 +61,7 @@ https://www.prusad.com/product/original-prusa-mk4-kit-2/
 * $799
 
 
-= Filiment Brands I Recommend
+# Filiment Brands I Recommend
 
 Great Brands of Filiment I have bought 20+ Spools of PLA and PETG
 
@@ -73,7 +75,7 @@ Good Brands of Filiment
 . Sunlu 3D PRINTER FILAMENT(https://amzn.to/3MBF9BO)
 . ELEGOO PLA 3D PRINTER FILAMENT(https://amzn.to/3OjWmAH)
 
-= Youtube 
+# Youtube 
 
 * 3D Printing Nerd(https://www.youtube.com/@3DPrintingNerd)
  
