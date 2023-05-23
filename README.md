@@ -1,8 +1,9 @@
 ![](Jscar_Hawk_logo-transparent.png)
 
-# My Socials
+# Follow Me On Socials
 
-[Twitter](https://twitter.com/jscar_hawk)
+
+<a href="https://twitter.com/jscar_hawk"><img src="./assets/css/Twitter-icon.png"></a>
 
 
 <a href="https://youtube.com/@Jscar_Hawk"><img src="./assets/css/Youtube-icon.png"></a>
