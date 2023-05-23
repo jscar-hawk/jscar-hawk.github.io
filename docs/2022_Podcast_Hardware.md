@@ -1,14 +1,7 @@
-= Podcasting/AV Gear Recommendation
-Jscar
-Version 0.1, 2020.03.17
-:sectnums:
-:toc:
-:toclevels: 4
-:toc-title: My Content
-
-:description: Example AsciiDoc document
-:keywords: AsciiDoc
-:imagesdir: ./images
+---
+layout: default
+title: My Favorite Podcasting/AV Gear Recommendation for 2023
+---
 
 My Linux Audio and Video Setup
 
@@ -16,47 +9,47 @@ With a large amount the workforce going remote, I wanted to share what I am usin
 
 To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
 
-== Laptop 
+## Laptop 
 
-=== Work 
+### Work 
 Lenovo P1 Gen3
 
-=== Personal
+### Personal
 Framework Laptop
 
-== Operating System
+## Operating System
 P1 Gen3 is running RHEL 9
 
 Framework Laptop is running https://getfedora.org/en/workstation/[Fedora 36 Workstation]
 
-== Broadcasting Software
+## Broadcasting Software
 https://obsproject.com/[Open Broadcast Studio]
 
 
-== Microphones
+## Microphones
 
-=== Basic
+### Basic
 
 https://amzn.to/3mGgXnK[Razer Seiren Mini]
 
-=== Starter Mic
+### Starter Mic
 
 https://amzn.to/3H0gVxE[Samson Q2U USB/XLR Dynamic Microphone Recording]
 
 
 
-=== New Mic
+### New Mic
 
 https://amzn.to/3HmjbQj[Rode PodMic]
 
-== USB audio interface:
+## USB audio interface:
 
-=== Beginner
+### Beginner
 
 https://amzn.to/41rmZHO[BEHRINGER UM2 Audio Interface]
 
 
-=== Intermediate
+### Intermediate
 
 https://amzn.to/3USV6WH[Audient EVO 4]
 
@@ -67,31 +60,31 @@ https://writepermission.com/evo4-pulseaudio-profile.html
 
 
 
-== Headset:
+## Headset:
 
-=== Wired
+### Wired
 
 https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones[SENNHEISER HD 58X JUBILEE HEADPHONES]
 
 https://amzn.to/3KJUqOw[KZ ZSN Pro X in Ear Buds Earphones]
 
-=== Wireless
+### Wireless
 
 https://amzn.to/3AhkWKx[Shokz OpenRun (AfterShokz Aeropex)]
 
-== Mic Stand:
+## Mic Stand:
 
-=== Starter
+### Starter
 
 https://amzn.to/43KXcvR[InnoGear Heavy Duty Microphone Stand with Mic Microphone Windscreen]
 
-=== Better
+### Better
 
 https://amzn.to/43KXcvR[Neewer Upgraded Large Sturdier Microphone Stand]
 
 
 
-== Webcam and DSLR:
+## Webcam and DSLR:
 
 After 5 years of using this camera it died
 https://amzn.to/43KXcvR[Logitech HD Pro Webcam C920]
@@ -115,7 +108,7 @@ https://amzn.to/3KOjFQ1[Nikon Z30]
 It does overheat after 2 hours of continues use, verses the Sony a6*00 Cameras.
 
 
-=== SmallRig Gear
+### SmallRig Gear
 
 https://amzn.to/3GYflfZ[SmallRig Cage for Nikon Z 30 3858]
 
@@ -125,7 +118,7 @@ https://amzn.to/41fJoaZ[SMALLRIG HDMI Cable Clamp]
 
 
 
-=== Tripod and Mounting Gear
+### Tripod and Mounting Gear
 https://amzn.to/41fJoaZ[Moman Tripod Fluid Drag Pan Head]
 
 https://amzn.to/41fJoaZ[KingJoy 66'' Camera Tripod]
@@ -134,24 +127,24 @@ https://amzn.to/40rtitD[Dazzne Desk Mount Stand]
 
 https://amzn.to/3oyibla[CAMVATE Heavy-Duty C Clamp Articulated 1/4"-20 Ball Head Support Holder (Black Locking Knob)]
 
-== Here is my sit/stand desk
+## Here is my sit/stand desk
 https://www.homedepot.com/p/Husky-62-in-Adjustable-Height-Work-Table-HOLT62XDB12/301810799[Husky 62 in. Adjustable Height Work Table]
 
-== Office Chair 
+## Office Chair 
 https://amzn.to/43LW0s4[SIHOO Office Chair with Pattern Mesh]
 
-== Video capture card
+## Video capture card
 Video capture card I use types that work with linux.
 
 If you are looking to use a DSLR Camera,
 you will have to make sure it supports Clean HDMI.
 Here is a great site to check for that https://www.elgato.com/en/cam-link/camera-check[elgato clean hdmi check]
 
-=== With Pass-through HDMI
+### With Pass-through HDMI
 
 https://amzn.to/3KQwtFq[Plugable Performance NIX Capture Card]
 
-=== Without pass-through HDMI
+### Without pass-through HDMI
 
 https://amzn.to/43PRZCK[Mirabox Capture Card]
 
@@ -162,11 +155,11 @@ So Video Calling, Camera, Mac & Linux all work out of the box.
 https://amzn.to/3mLMYL3[EVGA XR1 lite Capture Card]
 
 
-== Lighting Setup
+## Lighting Setup
 
-=== On Camera Shoe
+### On Camera Shoe
 
-==== Starter
+#### Starter
 
 https://amzn.to/3ouXVRK[VILTROX L116T RA CRI95 Super Slim LED Light Panel]
 
@@ -174,25 +167,25 @@ https://amzn.to/3LeuY5f[VILTROX 2m/6.5ft Premium External Power Supply 12V 2A Ou
 There are difference power supplies, but DO NOT USE THEM IF THEY ARE NOT 12V at 2A!
 You will cook your light, and once the magic smoke is out, it can't be put back in.
 
-==== Better
+#### Better
 
 https://amzn.to/3H0FjiS[Elgato Key Light Air]
 
-=== Back Lighting
+### Back Lighting
 
-==== Starter
+#### Starter
 
 https://amzn.to/3USG96N[Philips Color LED Wi-Fi Wiz Connected Wireless Light Bulb]
 
-==== Better
+#### Better
 
 https://amzn.to/41J8dMh[Elgato Light Strip RGBWW LEDs]
 
 
-== Monitor
+## Monitor
 
 https://amzn.to/3LevdNH[Samsung 34-Inch SJ55W Ultrawide Gaming Monitor]
 
-== Monitor Arm
+## Monitor Arm
 
 https://amzn.to/41Kyl9M[HUANUO Single Arm Monitor Stand]
