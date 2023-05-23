@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Favorite Framework Accessories for 2023
+---
+
 These are some of my favorite accessories that I’ve been using with my framework laptop for the last two years.
 I started with the do it yourself until 11th GEN motherboard and then upgraded to the 12th GEN.
 
