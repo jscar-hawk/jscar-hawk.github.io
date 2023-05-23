@@ -22,7 +22,7 @@ description: This is my running list of blog posts
 
 # Podcasting
 
-[2022 Podcasting/AV Gear Recommendation.](./Podcast_Hardware.adoc)
+[2022 Podcasting/AV Gear Recommendation.](./2022_Podcast_Hardware.md)
 
 # EDC
 
