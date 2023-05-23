@@ -29,4 +29,9 @@ description: This is my running list of blog posts
 ## Framework Laptop 
 [My Favorite Framework_Accessories](./framework_laptop_accessories.md)
 
+# Self Hosted
+
+## Security Camera
+
+
 [back](../)
