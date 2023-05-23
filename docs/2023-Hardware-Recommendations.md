@@ -5,7 +5,7 @@ This will let amazon know I sent you, and give me a small kickback if you buy th
 None of these are sponsorship, they do not get to see what I am saying about the products before I post online.
 Theses are products that I use and recommend!
 
-= $200 Range
+## $200 Range
 
 [ZimaBoard](https://amzn.to/3nudI30)
 
@@ -16,7 +16,7 @@ Theses are products that I use and recommend!
 * HDD/SSD: 2x SATA 6.0 Gb/s Ports
 * LAN: 2x GbE LAN Ports
 
-= $400 Range
+## $400 Range
 
 [Beelink SER5 PRO 5800H](https://amzn.to/42Cze4W)
 
@@ -37,7 +37,7 @@ My Total cost was $550 from using older gear and buying new gear to put into thi
 I needed 2 drives for Openshift SNO install.
 
 
-= $600 Range
+## $600 Range
 
 [Beelink SER6 Pro 7735HS](https://amzn.to/3LT5ElC)
 
@@ -59,7 +59,7 @@ I needed 2 drives for Openshift SNO install.
 * Power Supply: EVGA 700 BR 700 W 80+ Bronze Certified ATX Power Supply
 * Cost: $650 (At At Time Of Writting 2023-03-29)
 
-= $1000+
+## $1000+
 
 [2023 VM Build - Ryzen 9 5th Gen](https://pcpartpicker.com/user/jscar-hawk/saved/#view=tkV4gs)
 
