@@ -22,10 +22,11 @@ description: This is my running list of blog posts
 
 # Podcasting
 
-[Podcasting/AV Gear Recommendation](./Podcast_Hardware.md).
+[2022 Podcasting/AV Gear Recommendation.](./Podcast_Hardware.adoc)
 
 # EDC
 
 ## Framework Laptop 
+[2023 3D Printer Recomendations](./framework_laptop_accessories.md)
 
 [back](../)
