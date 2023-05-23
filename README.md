@@ -1,4 +1,6 @@
-# Follow What I Am Up To
+![](Jscar_Hawk_logo-transparent.png)
+
+# My Socials
 
 [Twitter](https://twitter.com/jscar_hawk)
 
