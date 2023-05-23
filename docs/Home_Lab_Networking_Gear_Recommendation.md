@@ -1,4 +1,4 @@
-= Home Lab Networking Gear Recommendation
+# Home Lab Networking Gear Recommendation
 Jscar
 Version 0.1, 2020.02.25
 :sectnums:
@@ -11,9 +11,9 @@ Version 0.1, 2020.02.25
 :imagesdir: ./images
 
 
-== Access Point
+## Access Point
 
-=== Starter Basic AP
+### Starter Basic AP
 
 UniFi Lite Access Point
 
@@ -23,7 +23,7 @@ https://store.ui.com/collections/unifi-network-access-points/products/unifi-ac-l
 
 Comes with PoE injector
 
-=== Advanced AP
+### Advanced AP
 
 UniFi 6 Lite Access Point
 
@@ -40,7 +40,7 @@ Features:
 
 Does not come with PoE injector
 
-=== Pro AP
+### Pro AP
 
 UniFi PRO Access point
 
@@ -59,9 +59,9 @@ Features:
 
 Comes with PoE injector
 
-== Managed Switches
+## Managed Switches
 
-=== Starter Switch
+### Starter Switch
 USW Flex Mini
 
 Price $30
@@ -71,7 +71,7 @@ https://store.ui.com/collections/unifi-network-routing-switching/products/usw-fl
 * 5-Port managed Gigabit Ethernet switch powered by 802.3af/at PoE or 5V, 1A USB-C power adapter.
 * 5V, 1A USB-C power adapter included only with the single-pack of the USW-Flex-Mini.
 
-=== Advanced Switch
+### Advanced Switch
 UniFi Switch 8
 
 Price $99
@@ -84,7 +84,7 @@ https://store.ui.com/collections/unifi-network-routing-switching/products/unifi-
 * 8 Gbps Total, Non-Blocking Line Rate
 * 25W AC/DC Power Adapter Included
 
-=== Pro Switch
+### Pro Switch
 UniFi Switch 24
 
 Price $225
@@ -98,7 +98,7 @@ https://store.ui.com/collections/unifi-network-routing-switching/products/usw-24
 
 
 
-== UniFi Network Controller
+## UniFi Network Controller
 
 You will need to run the UniFi Network controller on a machine to manage your gear.
 
@@ -112,7 +112,7 @@ Features:
 * Easily manage network users and guests.
 * Personalize the design, architecture, and privacy of guest hotspots.
 
-=== Raspberry Pi 4
+### Raspberry Pi 4
 I would suggest using a raspberry pi for this purpose.
 
 If you buy this kit from Vilros Raspberry Pi 4-2GB RAM.
@@ -127,7 +127,7 @@ If you aleady have a Raspberry Pi this is the case I recommend.
 Vilros Raspberry Pi 4 Heavy Duty Aluminum Alloy Pi Cooling Case (Black)
 https://amzn.to/40fuHDl - The link is Amazon Affiliate link, which helps me fund the projects I work on.
 
-=== Software Installed on another machine
+### Software Installed on another machine
 
 In this page you can find the installer to run it on
 
@@ -137,9 +137,9 @@ In this page you can find the installer to run it on
 
 https://www.ui.com/download/unifi/
 
-== Firewall/Router
+## Firewall/Router
 
-=== Protectli Vault 4 Port
+### Protectli Vault 4 Port
 
 Price $272
 
@@ -152,7 +152,7 @@ Features:
 * COMPONENTS: 4GB DDR3L RAM, 32GB mSATA SSD. coreboot BIOS optional, must be installed by user.
 * COMPATIBILITY: No OS pre-installed. All hardware tested with pfSense, untangle, OPNsense and other popular open-source software solutions.
 
-=== Uninterruptible Power Supply - Protectli Vault
+### Uninterruptible Power Supply - Protectli Vault
 
 This is optional, but Highly recommended
 
