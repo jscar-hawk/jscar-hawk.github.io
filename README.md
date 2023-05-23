@@ -9,7 +9,7 @@
 
 ## BLOG
 
-[Link to Blog Posts](./docs/blog.adoc)
+[Link to Blog Posts](./docs/blog.md)
 
 
 ## SCaLE20x Talk
