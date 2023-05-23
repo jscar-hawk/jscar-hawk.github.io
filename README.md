@@ -5,7 +5,7 @@
 [Twitter](https://twitter.com/jscar_hawk)
 
 
-[Youtube](https://youtube.com/@Jscar_Hawk)
+<a href="https://youtube.com/@Jscar_Hawk"><img src="./assets/css/Youtube-icon.png"></a>
 
 ## BLOG
 
