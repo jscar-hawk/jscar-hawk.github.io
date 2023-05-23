@@ -27,6 +27,6 @@ description: This is my running list of blog posts
 # EDC
 
 ## Framework Laptop 
-[2023 3D Printer Recomendations](./framework_laptop_accessories.md)
+[My Favorite Framework_Accessories](./framework_laptop_accessories.md)
 
 [back](../)
