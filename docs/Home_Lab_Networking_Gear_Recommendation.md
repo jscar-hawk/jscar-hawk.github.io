@@ -1,15 +1,8 @@
-# Home Lab Networking Gear Recommendation
-Jscar
-Version 0.1, 2020.02.25
-:sectnums:
-:toc:
-:toclevels: 4
-:toc-title: My Content
-
-:description: Example AsciiDoc document
-:keywords: AsciiDoc
-:imagesdir: ./images
-
+---
+layout: default
+title: Home Lab Networking Gear Recommendation
+description: Gear I have Used and Am Using
+---
 
 ## Access Point
 
