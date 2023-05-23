@@ -1,4 +1,7 @@
-= Starter 3D Printers for 2023
+---
+layout: default
+title: Starter 3D Printers for 2023
+---
 
 To help fund the projects I work on, the links are Amazon Affiliate links. T
 his will let amazon know I sent you, and give me a small kickback if you buy that product. 
