@@ -1,11 +1,14 @@
-![](Jscar_Hawk_logo-transparent.png)
-
 # Follow What I Am Up To
 
 [Twitter](https://twitter.com/jscar_hawk)
 
 
 [Youtube](https://www.youtube.com/channel/UCuyodMIAidoBOiFcHyh0Gcg)
+
+## BLOG
+
+[Link to Blog Posts](./blog.md).
+
 
 ## Highlighted Blog Posts
 
