@@ -24,4 +24,8 @@ description: This is my running list of blog posts
 
 [Podcasting/AV Gear Recommendation](./Podcast_Hardware.md).
 
+# EDC
+
+## Framework Laptop 
+
 [back](../)
