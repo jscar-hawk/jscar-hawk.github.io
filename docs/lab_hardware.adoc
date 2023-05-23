@@ -1,0 +1,136 @@
+= My Lab Hardware
+
+To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
+
+== For Work
+
+=== Laptop
+Lenovo ThinkPad P1 Gen 3
+
+Intel® Core™ i7-10850H CPU @ 2.70GHz × 12 
+
+Mesa Intel® UHD Graphics (CML GT2)
+
+64 Gb Ram
+
+1 TB NVMe
+
+=== Custom Built Workstation
+
+Cooler Master MasterBox Q300L Micro-ATX Tower
+
+Gigabyte B450 AORUS M
+
+AMD Ryzen 5 2600 Six-Core Processor (12 Thread)
+
+GeForce GTX 1050 Ti
+
+32 Gb Ram
+
+1 TB NVMe
+
+$572 (Not including Graphics card)
+
+
+=== Thin Clients
+Used HP T630
+
+AMD Embedded G-Series GX-420GI Radeon R7E
+
+Radeon R5 Graphics
+
+16 Gb Ram
+
+1 Tb mSata
+
+=== Thin Clients
+Used HP EliteDesk 800 G2
+
+Intel(R) Core(TM) i5
+
+UHD Graphics
+
+8 Gb Ram
+
+1 Tb mSata
+
+=== Intel Next Unit of Computing (NUC)
+https://amzn.to/3KVgANX[Intel NUC BXNUC10I5FNH1]
+
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+UHD Graphics
+
+https://amzn.to/3owrsKS[32 Gb Ram]
+
+https://amzn.to/3H63PPz[1 Tb NVMe]
+
+About $650 cost
+
+=== Raspberry Pi
+
+Raspberry Pi Compute Module 4 x1
+
+Raspberry Pi 4 x13
+
+Raspberry Pi 3 x7
+
+Raspberry Pi 2 x3
+
+Raspberry Pi 1 x6
+
+Raspberry Pi 0 x11
+
+Raspberry Pi 02 x1
+
+Raspberry Pi 400 x2
+
+Total Pi Count = 44
+
+Pi Pico = 7
+
+Pi Pico w = 4
+
+All of the versions of Raspberry PI Camera
+
+Soooooooooo many Hats and screens
+
+=== NAS
+
+Synology DS218+
+
+== Personal Machines
+
+DIY Framework Laptop (Intel 11Gen I5, 32 GB Ram, 1 TB NVMe)
+
+SteamDeck (Middle Model 256GB SSD)
+
+Apple M1 mini (base model 8GB Ram, 256 GB SSD)
+
+== Custom Build Gaming machine
+
+MSI Carbon Mobo
+
+AMD Ryzen 5 2600x Six-Core Processor
+
+GeForce GTX 3060 Ti
+
+32 Gb Ram
+
+1 TB NVMe
+
+== Open Source Hardware and Software Watches
+
+PineTime
+https://www.pine64.org/pinetime/
+
+Watchy
+https://watchy.sqfmi.com/
+
+Bangle.js 2
+https://www.espruino.com/Bangle.js2
+
+== Open Source Phones
+
+PinePhone
+https://www.pine64.org/pinephone/

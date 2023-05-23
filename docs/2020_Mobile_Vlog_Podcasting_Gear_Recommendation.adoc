@@ -1,0 +1,55 @@
+= Mobile Vlog/Podcasting Gear Recommendation
+Jscar
+Version 0.1, 2020.03.17
+:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: My Content
+
+:description: Example AsciiDoc document
+:keywords: AsciiDoc
+:imagesdir: ./images
+
+To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
+
+
+
+== Cell Phones
+
+https://www.apple.com/shop/buy-iphone/iphone-xr[iPhone XR]
+
+https://www.apple.com/ipad/compare/?modelList=ipad-8th-gen,ipad-7th-gen,ipad-6th-gen[iPad 6th Gen]
+
+https://store.google.com/us/product/pixel_4a[Pixel4a]
+
+== Cell Phone Cage
+
+=== Plastic
+
+https://amzn.to/3mMZDNE[ULANZI U Rig Pro]
+
+=== Metal
+
+https://amzn.to/3AdSh93[SmallRig Smartphone Video Rig - 2791]
+
+https://amzn.to/41mPRRC[SmallRig Power Bank Clamp Mount]
+
+https://amzn.to/3LhEvJ3[Ulanzi Aluminum Pad Tripod]
+
+== Microphone
+
+=== Starter
+
+https://amzn.to/3MZz2YC[Movo VXR10]
+
+=== Better
+
+https://amzn.to/3MZz2YC[Rode VideoMicro]
+
+== Cables
+
+https://amzn.to/43PNUOW[3.5mm TRS to 3.5mm TRRS Patch Adapter Cable]
+
+https://amzn.to/43PNUOW[Apple Lightning to 3.5 mm Headphone Jack Adapter]
+
+https://amzn.to/3N1ZMaK[Female 3.5mm TRS Microphone Adapter Cable to USB Type-C Connector Dongle]
