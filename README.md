@@ -7,7 +7,7 @@
 
 ## BLOG
 
-[Link to Blog Posts](./blog.md).
+[Link to Blog Posts](jscar-hawk.github.io/docs/blog.adoc).
 
 
 ## Highlighted Blog Posts
