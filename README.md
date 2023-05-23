@@ -11,7 +11,8 @@
 [2020 Homelab](docs/2020_Mobile_Vlog_Podcasting_Gear_Recommendation.adoc)
 
 
-[2023 Hardware Recommendations](docs/2023-Hardware-Recommendations.md)
+[2023 Hardware Recommendations](jscar-hawk.github.io/docs
+/2023-Hardware-Recommendations.md)
 
 
 [Starter-HomeLab-2023](docs/Starter-HomeLab-2023.md)
