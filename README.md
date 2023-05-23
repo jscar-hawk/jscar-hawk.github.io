@@ -15,7 +15,8 @@
 
 ## SCaLE20x Talk
 
-[SCALE20x Staying RHELevant  In Your Home Lab - Presentation PDF](jscar-hawk.com/docs/SCALE20x_Staying_RHELevant _In_Your_Homelab_By_Jscar_Hawk.pdf)
+[SCALE20x Staying RHELevant  In Your Home Lab - Presentation PDF](./docs/SCALE20x_Staying_RHELevant _In_Your_Homelab_By_Jscar_Hawk.pdf)
 
 [SCALE20x Staying RHELevant  In Your Home Lab - Video](https://www.youtube.com/watch?v=rt2DCLRda1g)
+
 
