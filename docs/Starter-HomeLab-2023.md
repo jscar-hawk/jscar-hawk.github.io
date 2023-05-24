@@ -13,7 +13,7 @@ Refurb Lenovo ThinkPad T480 14 HD Laptop
 * 16GB RAM
 * 256GB SSD
 * $214 at time or writting
-* https://amzn.to/3p5q2av 
+* https://amzn.to/3OCt9kI
 
 ## $400 Range
 
@@ -25,13 +25,13 @@ Beelink SER5 PRO 5800H
 * Storage: 500GB M.2 NVMe SSD
 * Cost: $335 (With Prime in the US)
 * Youtube: Beelink SER5 Pro 5800H: Affordable 8-core 45W MiniPC[https://www.youtube.com/watch?v=NYGLgwFCLWk]
-* https://amzn.to/42Cze4W
+* https://amzn.to/3WuFwRT
 
 ## Small Form Factor
 
 Beelink has lighting sales all the time
 Make sure you check the specs that you are buying.
-https://amzn.to/44tBywA
+https://amzn.to/3WyYve7
 
 ## Used Thin Clients
 
@@ -40,7 +40,7 @@ Refurb HP 800 G3
 * 32GB DDR4 
 * 1TB NVMe
 * $232 at time or writting
-* https://amzn.to/3Vs5Jjz
+* https://amzn.to/3osyPTJ
 
 
 
