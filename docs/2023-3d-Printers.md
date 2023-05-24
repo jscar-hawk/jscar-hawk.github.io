@@ -11,7 +11,7 @@ Theses are products that I use and recommend!
 # 3D Printers to consider
 
 ## Official Creality Ender 3 V2
-https://amzn.to/434Gp5D - Amazon Affiliate links
+https://amzn.to/3qdc8TX - Amazon Affiliate links
 
 https://www.creality.com/products/ender-3-v2-3d-printer-csco
 
@@ -24,7 +24,7 @@ https://www.creality.com/products/ender-3-v2-3d-printer-csco
 
 
 ## Official Creality Ender 3 V2 Neo
-https://amzn.to/3MBApvZ - Amazon Affiliate links
+https://amzn.to/3otZwYm - Amazon Affiliate links
 
 https://www.creality.com/products/ender-3-v2-neo-3d-printer
 
