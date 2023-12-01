@@ -33,6 +33,8 @@ I upgraded my box with the following.
 * I bought [Western Digital 250GB WD Blue SA510 SSD](https://amzn.to/3MqGDPc) $34 I removed the SSD from the case then wrapped it
 * Kapton Tape A.k.a. [Hight Temperature Resistant tape](https://amzn.to/41D6ibJ) $12
 
+Here is my [Beelink SER5 Pro upgrade video](https://www.youtube.com/watch?v=l6apX9QkMXo)
+
 My Total cost was $550 from using older gear and buying new gear to put into this machine.
 I needed 2 drives for Openshift SNO install.
 
