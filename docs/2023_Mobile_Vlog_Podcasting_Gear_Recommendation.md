@@ -7,16 +7,16 @@ To help fund the projects I work on, the links are Amazon Affiliate links. This 
 - Google Pixal 6a
 
 ## Cell Phone Cage
-- https://amzn.to/3tsv4Ad[SmallRig Universal Smartphone Video Rig]
+- [SmallRig Universal Smartphone Video Rig](https://amzn.to/3tsv4Ad)
 
 # Wired Mic
-- https://amzn.to/3Tz2ZSG[Movo VXR10 Universal Shotgun Mic for Camera]
-- https://amzn.to/3Rz8a22[Rode VideoMicro Compact On-Camera Microphone]
+- [Movo VXR10 Universal Shotgun Mic for Camera](https://amzn.to/3Tz2ZSG)
+- [Rode VideoMicro Compact On-Camera Microphone](https://amzn.to/3Rz8a22)
 
 # Wireless Mic
-- https://amzn.to/3tnJ8uV[SMALLRIG SmalRig W60 Wireless Microphone]
+- [SMALLRIG SmalRig W60 Wireless Microphone](https://amzn.to/3tnJ8uV)
 
 # Tripod
-- https://amzn.to/4837Wr9[SmallRig Mini Tripod for Camera]
-- https://amzn.to/477vytd[SmallRig 78" Camera Tripod, Foldable Aluminum Tripod]
-- https://amzn.to/41y0S3f[SmallRig Universal Photography Tripod Dolly]
+- [SmallRig Mini Tripod for Camera](https://amzn.to/4837Wr9)
+- [SmallRig 78" Camera Tripod, Foldable Aluminum Tripod](https://amzn.to/477vytd)
+- [SmallRig Universal Photography Tripod Dolly](https://amzn.to/41y0S3f)
