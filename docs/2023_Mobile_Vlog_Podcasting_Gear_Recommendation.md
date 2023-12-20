@@ -8,11 +8,13 @@ To help fund the projects I work on, the links are Amazon Affiliate links. This 
 
 ## Camera
 - [Sony 6400](https://www.amazon.com/Sony-Alpha-a6400-Mirrorless-Camera/dp/B07MTWVN3M?crid=3V8G9N9VTWKRV&keywords=sony%2Ba6400&qid=1703094257&sprefix=sony%2B6400%2Caps%2C198&sr=8-3&ufe=app_do%3Aamzn1.fos.2b70bf2b-6730-4ccf-ab97-eb60747b8daf&th=1&linkCode=sl1&tag=jscar-20&linkId=78649740905fe179efa33f606b5c40ed&language=en_US&ref_=as_li_ss_tl)
-- 
+- [Nikon Z 30](https://www.amazon.com/Nikon-Wide-Angle-Compact-Lightweight-mirrorless/dp/B0B527QM4X?crid=1EUVTUS06XUAK&keywords=Nikon%2Bz30&qid=1703094623&sprefix=nikon%2Bz30%2Caps%2C196&sr=8-3&ufe=app_do%3Aamzn1.fos.2b70bf2b-6730-4ccf-ab97-eb60747b8daf&th=1&linkCode=sl1&tag=jscar-20&linkId=a6b91009e56d7a73d6b21e9119379de5&language=en_US&ref_=as_li_ss_tl)
 
 
-## Cell Phone Cage
+## Camera Cages
 - [SmallRig Universal Smartphone Video Rig](https://amzn.to/3tsv4Ad)
+- [Sony a6400 SmallRig Cage](https://www.amazon.com/SMALLRIG-Silicone-Handgrip-a6100-a6300/dp/B08VD9BSRX?crid=3BA4SP84M8A1R&keywords=sony+a6400+cage&qid=1703094736&sprefix=sony+a6400+cage%2Caps%2C178&sr=8-3&linkCode=sl1&tag=jscar-20&linkId=d3b9b3589132c7d8539b4fb3cf99356f&language=en_US&ref_=as_li_ss_tl)
+- [SmallRig Z 30 Cage](https://www.amazon.com/SmallRig-Aluminum-Integrated-Arca-Swiss-Locating/dp/B0B5KRQ5SC?crid=43UHJ7LA523O&keywords=nikon+z30+cage&qid=1703094712&sprefix=Nikon+z30+ca%2Caps%2C185&sr=8-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&linkCode=sl1&tag=jscar-20&linkId=da3a3c00564a61707bd859b5aa5324ab&language=en_US&ref_=as_li_ss_tl)
 
 ## Wired Mic
 - [Movo VXR10 Universal Shotgun Mic for Camera](https://amzn.to/3Tz2ZSG)
