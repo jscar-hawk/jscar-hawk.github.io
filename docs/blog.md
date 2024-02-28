@@ -14,6 +14,8 @@ description: This is my running list of blog posts
 
 [2020 Homelab](./2020_Mobile_Vlog_Podcasting_Gear_Recommendation.md).
 
+[2024 Streaming Desk Setup](./2024_Streaming_Desk_Setup.md)
+
 
 # 3D Printer
 
