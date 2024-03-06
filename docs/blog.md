@@ -35,5 +35,8 @@ description: This is my running list of blog posts
 
 ## Security Camera
 
+## My Desk Setup
+
+[My current gear and setup for 2024](./2024_Streaming_Desk_Setup.md)
 
 [back](../)
