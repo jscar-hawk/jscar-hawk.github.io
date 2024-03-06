@@ -31,27 +31,27 @@ https://obsproject.com/[Open Broadcast Studio]
 
 ### Basic
 
-https://amzn.to/3OXjXqw[Razer Seiren Mini]
+[Razer Seiren Mini](https://amzn.to/3OXjXqw)
 
 ### Starter Mic
 
-https://amzn.to/3uU3hcH[Samson Q2U USB/XLR Dynamic Microphone Recording]
+[Samson Q2U USB/XLR Dynamic Microphone Recording](https://amzn.to/3uU3hcH)
 
 ### New Mic
 
-https://amzn.to/3P0mWyo[Rode PodMic]
+[Rode PodMic](https://amzn.to/3P0mWyo)
 This is my daily driver
 
 ## USB audio interface:
 
 ### Beginner
 
-hhttps://amzn.to/4bUd9Us[BEHRINGER UM2 Audio Interface]
+[BEHRINGER UM2 Audio Interface](https://amzn.to/4bUd9Us)
 This is an old reliable, great starter Interface
 
 ### Intermediate
 
-https://amzn.to/42USA6k[Audient EVO 4]
+[Audient EVO 4](https://amzn.to/42USA6k)
 This is my daily driver
 
 
@@ -59,80 +59,80 @@ This is my daily driver
 
 ### Wired
 
-https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones[SENNHEISER HD 58X JUBILEE HEADPHONES]
+[SENNHEISER HD 58X JUBILEE HEADPHONES](https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones)
 
-https://amzn.to/3TgRy1l[KZ ZSN Pro X in Ear Buds Earphones]
+[KZ ZSN Pro X in Ear Buds Earphones](https://amzn.to/3TgRy1l)
 
 ### Wireless
 
-https://amzn.to/3AhkWKx[Shokz OpenRun (AfterShokz Aeropex)]
+[Shokz OpenRun AfterShokz Aeropex](https://amzn.to/3AhkWKx)
 
-https://amzn.to/3TgRC15[SHOKZ OpenComm2 UC - Bone Conduction with Boom Mic and USB-C]
+[SHOKZ OpenComm2 UC - Bone Conduction with Boom Mic and USB-C](https://amzn.to/3TgRC15)
 
 ## Mic Stand:
 
 ### Starter
 
-https://amzn.to/43KXcvR[InnoGear Heavy Duty Microphone Stand with Mic Microphone Windscreen]
+[InnoGear Heavy Duty Microphone Stand with Mic Microphone Windscreen](https://amzn.to/43KXcvR)
 
 ### Better
 
-https://amzn.to/4aavKdt[InnoGear Desktop Microphone Stand]
+[InnoGear Desktop Microphone Stand](https://amzn.to/4aavKdt)
 
 
 ## Webcam and DSLR:
 
 I am currently run 2 of the Facecam
-https://amzn.to/3wzziXZ[Elgato Facecam]
+[Elgato Facecam](https://amzn.to/3wzziXZ)
 
 
-https://amzn.to/3uX2mYU[Sony A6400]
+[Sony A6400](https://amzn.to/3uX2mYU)
 
 If you go with another camera, you will need to check for clean HDMI out.
 A great sight to check for that is https://www.elgato.com/en/cam-link/camera-check.
 
 ### SmallRig Gear
 
-hhttps://amzn.to/3P1j4x0[SmallRig Cage with Silicone Handgrip & Cold Shoe for Sony a6400]
+[SmallRig Cage with Silicone Handgrip & Cold Shoe for Sony a6400](https://amzn.to/3P1j4x0)
 
-https://amzn.to/41fJoaZ[SMALLRIG HDMI Cable Clamp]
+[SMALLRIG HDMI Cable Clamp](https://amzn.to/41fJoaZ)
 
 
 
 ### Tripod and Mounting Gear
-https://amzn.to/41fJoaZ[Moman Tripod Fluid Drag Pan Head]
+[Moman Tripod Fluid Drag Pan Head](https://amzn.to/41fJoaZ)
 
-https://amzn.to/41fJoaZ[KingJoy 66'' Camera Tripod]
+[KingJoy 66'' Camera Tripod](https://amzn.to/41fJoaZ)
 
-https://amzn.to/40rtitD[Dazzne Desk Mount Stand]
+[Dazzne Desk Mount Stand](https://amzn.to/40rtitD)
 
-https://amzn.to/3oyibla[CAMVATE Heavy-Duty C Clamp Articulated 1/4"-20 Ball Head Support Holder (Black Locking Knob)]
+[CAMVATE Heavy-Duty C Clamp Articulated 1/4"-20 Ball Head Support Holder (Black Locking Knob)](https://amzn.to/3oyibla)
 
 ## Here is my sit/stand desk
-https://www.homedepot.com/p/Husky-62-in-Adjustable-Height-Work-Table-HOLT62XDB12/301810799[Husky 62 in. Adjustable Height Work Table]
+[Husky 62 in. Adjustable Height Work Table](https://www.homedepot.com/p/Husky-62-in-Adjustable-Height-Work-Table-HOLT62XDB12/301810799)
 
 ## Office Chair 
-https://amzn.to/43LW0s4[SIHOO Office Chair with Pattern Mesh]
+[SIHOO Office Chair with Pattern Mesh](https://amzn.to/43LW0s4)
 
 ## Video capture card
 Video capture card I use types that work with linux.
 
 If you are looking to use a DSLR Camera,
 you will have to make sure it supports Clean HDMI.
-Here is a great site to check for that https://www.elgato.com/en/cam-link/camera-check[elgato clean hdmi check]
+Here is a great site to check for that [elgato clean hdmi check](https://www.elgato.com/en/cam-link/camera-check)
 
 ### Without pass-through HDMI
 
 Currently Testing this card out because it treats the HDMI as UVC which acts as a camera.
 So Video Calling, Camera, Mac & Linux all work out of the box.
 
-https://amzn.to/42TZ9Gd[Mirabox USB3.0 4K HDMI Video Capture Card]
+[Mirabox USB3.0 4K HDMI Video Capture Card](https://amzn.to/42TZ9Gd)
 Cheap Option
 
-https://amzn.to/3IjocZY[EVGA XR1 lite Capture Card]
+[EVGA XR1 lite Capture Card](https://amzn.to/3IjocZY)
 Favorite Option
 
-https://amzn.to/42YPZbw[Elgato Cam Link 4K]
+[Elgato Cam Link 4K](https://amzn.to/42YPZbw)
 A great option if you want to get into the elgato eco-system
 
 
@@ -142,33 +142,32 @@ A great option if you want to get into the elgato eco-system
 
 #### Starter
 
-https://amzn.to/49wuRff[VILTROX L116T RA CRI95 Super Slim LED Light Panel]
+[VILTROX L116T RA CRI95 Super Slim LED Light Panel](https://amzn.to/49wuRff)
 
-https://amzn.to/42WRDdA[VILTROX 2m/6.5ft Premium External Power Supply 12V 2A Output AC/DC Adapter 100-240V Input for LED Light,L116T/L116B/L13T/L132B,VILTROX Monitor DC-70/DC-50, CE FC Certification]
+[VILTROX 2m/6.5ft Premium External Power Supply 12V 2A Output AC/DC Adapter 100-240V Input for LED Light,L116T/L116B/L13T/L132B,VILTROX Monitor DC-70/DC-50, CE FC Certification](https://amzn.to/42WRDdA)
 There are difference power supplies, but DO NOT USE THEM IF THEY ARE NOT 12V at 2A!
 You will cook your light, and once the magic smoke is out, it can't be put back in.
 
 #### Better
 
-https://amzn.to/3SZ74NO[Elgato Key Light Air]
+[Elgato Key Light Air](https://amzn.to/3SZ74NO)
 
 ### Back Lighting
 
 #### Starter
 
-https://amzn.to/48B51FJ[Philips Color LED Wi-Fi Wiz Connected Wireless Light Bulb]
-
+[Philips Color LED Wi-Fi Wiz Connected Wireless Light Bulb](https://amzn.to/48B51FJ)
 #### Better
 
-https://amzn.to/3SVv5We[Elgato Light Strip RGBWW LEDs]
+[Elgato Light Strip RGBWW LEDs](https://amzn.to/3SVv5We)
 
 
 ## Monitor
 
-https://amzn.to/4c8qhpl[Samsung 34-Inch SJ55W Ultrawide Gaming Monitor]
-https://amzn.to/3IiVZCq[ASUS ProArt Display PA248QV 24.1” WUXGA]
+[Samsung 34-Inch SJ55W Ultrawide Gaming Monitor](https://amzn.to/4c8qhpl)
+[ASUS ProArt Display PA248QV 24.1” WUXGA](https://amzn.to/3IiVZCq)
 
 
 ## Monitor Arm
 
-https://amzn.to/42VvZqa[HUANUO Single Arm Monitor Stand]
+[HUANUO Single Arm Monitor Stand](https://amzn.to/42VvZqa)
