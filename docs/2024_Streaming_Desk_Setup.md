@@ -24,7 +24,7 @@ Framework 13 Laptop running Fedora 39
 Framework 16 Laptop running Fedora 39
 
 ## Broadcasting Software
-https://obsproject.com/[Open Broadcast Studio]
+[Open Broadcast Studio](https://obsproject.com)
 
 
 ## Microphones
