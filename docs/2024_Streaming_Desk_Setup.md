@@ -7,7 +7,7 @@ My Linux Audio and Video Setup
 
 With a large amount the workforce going remote, I wanted to share what I am using.
 
-To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
+<img src="./assets/css/Jscar-Desk_setup-2024.JPG">
 
 ## Laptop 
 
@@ -166,6 +166,8 @@ You will cook your light, and once the magic smoke is out, it can't be put back 
 
 [Samsung 34-Inch SJ55W Ultrawide Gaming Monitor](https://amzn.to/4c8qhpl)
 [ASUS ProArt Display PA248QV 24.1” WUXGA](https://amzn.to/3IiVZCq)
+
+To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
 
 
 ## Monitor Arm
