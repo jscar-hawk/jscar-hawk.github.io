@@ -174,10 +174,10 @@ So Video Calling, Camera, Mac & Linux all work out of the box.
 * [Samsung 34-Inch SJ55W Ultrawide Gaming Monitor](https://amzn.to/4c8qhpl)
 * [ASUS ProArt Display PA248QV 24.1” WUXGA](https://amzn.to/3IiVZCq)
 
-To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
-
-
 ## Monitor Arm
 
 * [HUANUO Single Arm Monitor Stand](https://amzn.to/42VvZqa)
 * [VIVO Extra Tall Single Monitor Desk Mount Stand 39 inch Pole](https://amzn.to/3uYm5aW)
+
+
+To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
