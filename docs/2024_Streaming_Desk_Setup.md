@@ -7,7 +7,7 @@ My Linux Audio and Video Setup
 
 With a large amount the workforce going remote, I wanted to share what I am using.
 
-<img src="./assets/css/Jscar-Desk_setup-2024.JPG">
+<img src="../assets/css/jscar_desk_setup_public_2024.png">
 
 ## Laptop 
 
