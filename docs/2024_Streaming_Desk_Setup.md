@@ -101,6 +101,8 @@ Daily Driver
 
 * [SmallRig Cage with Silicone Handgrip & Cold Shoe for Sony a6400](https://amzn.to/3P1j4x0)
 * [SMALLRIG HDMI Cable Clamp](https://amzn.to/41fJoaZ)
+* [SmallRig Clamp w/ 1/4" and 3/8" Thread and 9.8 Inches Adjustable Friction Power Articulating Magic Arm](https://amzn.to/3VdMdcw)
+* [SmallRig Camera Desk Mount Table Stand with Magic Arm and 1/4" Ball Head](https://amzn.to/3wXAx3g)
 
 
 
