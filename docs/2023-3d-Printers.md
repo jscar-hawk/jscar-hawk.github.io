@@ -65,15 +65,15 @@ https://www.prusad.com/product/original-prusa-mk4-kit-2/
 
 Great Brands of Filiment I have bought 20+ Spools of PLA and PETG
 
-. [OVERTURE 3D PRINTER FILAMENT](https://amzn.to/41Lfn2f)
-. [Hatchbox 3D PRINTER FILAMENT](https://amzn.to/45n1hr1)
+* [OVERTURE 3D PRINTER FILAMENT](https://amzn.to/41Lfn2f)
+* [Hatchbox 3D PRINTER FILAMENT](https://amzn.to/45n1hr1)
 
 
 Good Brands of Filiment
 
-. [Amazon Basic 3D PRINTER FILAMENT Only PLA](https://amzn.to/3pFPeEA)
-. [Sunlu 3D PRINTER FILAMENT](https://amzn.to/3MBF9BO)
-. [ELEGOO PLA 3D PRINTER FILAMENT](https://amzn.to/3OjWmAH)
+* [Amazon Basic 3D PRINTER FILAMENT Only PLA](https://amzn.to/3pFPeEA)
+* [Sunlu 3D PRINTER FILAMENT](https://amzn.to/3MBF9BO)
+* [ELEGOO PLA 3D PRINTER FILAMENT](https://amzn.to/3OjWmAH)
 
 [44 Minute video of 3D Filament Tier List: Which Spools Rule](https://www.youtube.com/watch?v=weeG9yOp3i4)
 
