@@ -49,8 +49,8 @@ We started with
 [DK Workbooks: Coding in Scratch: Games Workbook: Create Your Own Fun and Easy Computer Games](https://amzn.to/4cIl6fI)
 
 After the workbook we did these flashcards
-[ScratchJr Coding Cards: Creative Coding Activities](https://amzn.to/3xe3sQQ)
-[The Official Scratch Coding Cards (Scratch 3.0): Creative Coding Activities for Kids](https://amzn.to/3xliV1A)
+* [ScratchJr Coding Cards: Creative Coding Activities](https://amzn.to/3xe3sQQ)
+* [The Official Scratch Coding Cards (Scratch 3.0): Creative Coding Activities for Kids](https://amzn.to/3xliV1A)
 
 
 After about a year Later we tried some Minecraft programming with python,
@@ -62,7 +62,29 @@ About this time is when we had them build thier own PC's.
 
 We went with a simple build, 
 
-Intel i3 10th Gen
+[2021 Boys PC Build](https://pcpartpicker.com/list/Gb3NRT)
+Most Games don't use over 4 Cores, so we went with a basic i3, with room to upgrade if needed.
+
+* Case [Cooler Master MasterBox Q300L](https://amzn.to/3J7VNWQ) - I love this case because of the airflow and ease of building
+* CPU [Intel Core i3-10100 Desktop Processor 4 Cores](https://amzn.to/4aiPvzE) - Most Games don't use over 4 Cores, so we went with a basic i3, with room to upgrade if needed.
+* Motherboard [GIGABYTE B460M DS3H V2](https://amzn.to/3TZaces) - at the time it was a cheap baord with built in wifi
+* RAM [Corsair Vengeance LPX 8GB](https://amzn.to/3vDXAA8) great bang for buck, and very reliable
+* 
+* Power supply [Seasonic S12III 500 SSR-500GB3 500W 80+ Bronze](https://amzn.to/4agj9Wh) wanted a reliable, trusted brand.
+
+
+If I was to build a starter PC for my kids today I'd go with this list
+### Case
+
+* [Cooler Master Q300L V2 Black](https://amzn.to/4cUA1nx)
+* [Cooler Master Qube 500 Flatpack](https://amzn.to/43IrK1w)
+
+### Motherboard
+* MSI and Gigabyte motherboards have been very reliable 
+* Intel [MSI PRO B760M-P DDR4 ProSeries Motherboard](https://amzn.to/4ayLWVK)
+* AMD [MSI PRO B550M-VC WiFi](https://amzn.to/3J1vKAH)
+
+* 
 
 
 ## Consuming or Creating Content
