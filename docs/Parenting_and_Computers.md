@@ -41,7 +41,7 @@ Hook up each of the cables.
 * Speakers
 
 
-This also gave a LOT of opertunity to **learn troubleshoot skills** to WHY something wasn't working.
+This also gave a LOT of opportunity to **learn troubleshoot skills** to WHY something wasn't working.
 
 We went through the Raspberry Pi Books that came with the kits to first to learn how to flash an OS onto them.
 
