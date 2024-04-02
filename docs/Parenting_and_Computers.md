@@ -46,11 +46,11 @@ Then We started on scratch (Drag and Drop) programming to create thier own games
 After setting up the Raspberry Pi's we started to create games.
 
 We started with 
-(DK Workbooks: Coding in Scratch: Games Workbook: Create Your Own Fun and Easy Computer Games)[https://amzn.to/4cIl6fI] 
+[DK Workbooks: Coding in Scratch: Games Workbook: Create Your Own Fun and Easy Computer Games](https://amzn.to/4cIl6fI)
 
 After the workbook we did these flashcards
-(ScratchJr Coding Cards: Creative Coding Activities)[https://amzn.to/3xe3sQQ]
-(The Official Scratch Coding Cards (Scratch 3.0): Creative Coding Activities for Kids)[https://amzn.to/3xliV1A]
+[ScratchJr Coding Cards: Creative Coding Activities](https://amzn.to/3xe3sQQ)
+[The Official Scratch Coding Cards (Scratch 3.0): Creative Coding Activities for Kids](https://amzn.to/3xliV1A)
 
 
 After about a year Later we tried some Minecraft programming with python,
@@ -85,15 +85,15 @@ If you are interested I can get you a refferal link for Kiwico or Crunchlabs of 
 
 ## Books
 
-(DK Workbooks: Coding in Scratch: Games Workbook: Create Your Own Fun and Easy Computer Games)[https://amzn.to/4cIl6fI] 
+[DK Workbooks: Coding in Scratch: Games Workbook: Create Your Own Fun and Easy Computer Games](https://amzn.to/4cIl6fI)
 
-(100 Things to Know About Numbers, Computers & Coding)[https://amzn.to/4a9kRZD]
+[100 Things to Know About Numbers, Computers & Coding](https://amzn.to/4a9kRZD)
 
 
 
 ### Codes and Cyphers
 
-(Over 50 Secret Codes)[https://amzn.to/3xvjk1m]
+[Over 50 Secret Codes](https://amzn.to/3xvjk1m)
 
 
 
