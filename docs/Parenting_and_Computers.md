@@ -20,6 +20,10 @@ They are 12, 10, 7 and 3 months old.
 ### Age 6-8 Start with Raspberry Pi
 From the age of 6-8 I started having them work with thier own Raspberry Pi's.
 
+We used this Kit 
+* [Vilros Raspberry Pi 4 4GB Complete Starter Kit with Fan-Cooled Heavy-Duty Aluminum Alloy Case (Black Case)](https://amzn.to/3TJOhGB)
+* [Raspberry Pi 400 Computer Kit US Keyboard Layout - 16 GB, W125890265](https://amzn.to/4cDCP8j)
+
 Talking with my wife, She thinks our 2ed born was more ready to do the PC starting at age 6, verses our first born wasn't ready till age 8.
 
 
