@@ -2,7 +2,9 @@
 
 ### Age 4-6 Tablet Training
 
-We got them the amazon fire tablets and they have the best parental settings
+We got them the [Amazon Fire 7 tablet](https://amzn.to/3U2SM0g)
+
+They have the best [parental settings](https://www.amazon.com/gp/help/customer/display.html?nodeId=GG2LBLF5V2T8XUX8), and you can [Create a Child Profile on Your Fire Tablet](https://www.amazon.com/gp/help/customer/display.html?nodeId=G3MTGN25XVMNWTFX) and price when on sale, compaired to an iPad.
 
 They where limited to 1 hour screen time.
 
