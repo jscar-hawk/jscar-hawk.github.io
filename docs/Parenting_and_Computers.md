@@ -126,6 +126,6 @@ If you are interested I can get you a refferal link for Kiwico or Crunchlabs of 
 
 
 
-
+To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
 
 
