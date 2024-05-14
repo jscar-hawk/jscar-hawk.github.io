@@ -5,10 +5,22 @@ title: My recomendation for building a PC for 2024
 
 
 ## High-End Desktop
+
 * https://amzn.to/3K0mnlm[AMD Ryzen 9 5950X 16-core, 32-thread unlocked desktop processor]
+** $363.95 as of 2024-05-14
 * https://amzn.to/44E61Zj[MSI MAG B550 TOMAHAWK Gaming Motherboard]
+** $139.99 as of 2024-05-14
 * https://amzn.to/4dF7KBs[Corsair Vengeance LPX 128GB (4x32GB) DDR4 3200]
+** $264.99 as of 2024-05-14
+
+
+## Mid-Teir
+
+* https://amzn.to/4bCfd2C[AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor]
+** $277 as of 2024-05-14
 
 
 ## Low Cost Desktop
-* 
+
+* https://amzn.to/4bElWsU[AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler]
+** $144.31 as of 2024-05-14
