@@ -10,6 +10,9 @@ title: My recomendation for building a PC for 2024
 ** $363.95 as of 2024-05-14
 * https://amzn.to/44E61Zj[MSI MAG B550 TOMAHAWK Gaming Motherboard]
 ** $139.99 as of 2024-05-14
+** 2.5G LAN 
+** 1 Gigabit LAN
+
 * https://amzn.to/4dF7KBs[Corsair Vengeance LPX 128GB (4x32GB) DDR4 3200]
 ** $264.99 as of 2024-05-14
 
@@ -24,3 +27,10 @@ title: My recomendation for building a PC for 2024
 
 * https://amzn.to/4bElWsU[AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler]
 ** $144.31 as of 2024-05-14
+
+## Cases
+
+* https://amzn.to/3wAglVs[Cooler Master Q300L V2]
+** $83.43
+* https://amzn.to/3QHmWV1[Cooler Master QUBE 500 Flatpack]
+** $93.99
