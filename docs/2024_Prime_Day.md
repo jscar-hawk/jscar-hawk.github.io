@@ -55,6 +55,9 @@ https://amzn.to/4f8IXXa
 ## Synology NAS
 nothing on sale for prime day
 
+Seagate IronWolf Pro, Enterprise NAS Internal HDD –CMR 3.5 Inch, SATA 6 Gb/s, 7,200 RPM
+https://amzn.to/3Yd27VM
+
 
 ## Others
 
