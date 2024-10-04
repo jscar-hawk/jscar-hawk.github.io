@@ -85,3 +85,9 @@ Good Brands of Filiment
 * [CNC Kitchen](https://www.youtube.com/@CNCKitchen)
 
 * [CHEP](https://www.youtube.com/@FilamentFriday)
+
+# Projects I have printed
+
+* [Hinged Cable Clip V2](https://www.printables.com/model/319018-hinged-cable-clip-v2)
+
+* [Hinged Cable Clip V2 with MultiBoard mount](https://www.printables.com/model/874537-hinged-cable-clip-v2-with-multiboard-mount)
