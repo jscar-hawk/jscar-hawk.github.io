@@ -48,8 +48,9 @@ https://www.youtube.com/shorts/759ltCNvZNM
 Record a 5 minute video of you speaking off the cuff.
 The next day come back to it, and you are going to do these 3 things.
 
-#1 Play the video with audio only (Vocal Image Review)
-#2 Next, Play the video without video and Only Watch your phyical movement (Visual Image Review)
-#3 Transcribe the Video, including the filler words, and now you know what you need to work on.
+
+. Play the video with audio only (Vocal Image Review)
+. Next, Play the video without video and Only Watch your phyical movement (Visual Image Review)
+. Transcribe the Video, including the filler words, and now you know what you need to work on.
 
 
