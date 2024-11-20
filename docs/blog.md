@@ -4,6 +4,7 @@ title: Blog Posts
 description: This is my running list of blog posts
 ---
 
+
 # Home Lab 
 
 [2023 Starter-HomeLab-2023](./Starter-HomeLab-2023.md).
@@ -14,9 +15,7 @@ description: This is my running list of blog posts
 
 [Home Lab Networking Gear Recommendation](./Home_Lab_Networking_Gear_Recommendation.md).
 
-
-
-
+# Getting Started In Tech
 
 # 3D Printer
 
