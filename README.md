@@ -3,10 +3,13 @@
 # Follow Me On Socials
 
 
-<a href="https://twitter.com/jscar_hawk"><img src="./assets/css/Twitter-icon.png"></a>
+[Follow me on Twitter/X @jscar_hawk](https://twitter.com/jscar_hawk)
+
+[Follow my channel on Youtube @Jscar_Hawk](https://youtube.com/@Jscar_Hawk)
+
+[Follow me on bluesky](https://bsky.app/profile/jscar-hawk.bsky.social)
 
 
-<a href="https://youtube.com/@Jscar_Hawk"><img src="./assets/css/Youtube-icon.png"></a>
 
 ## BLOG
 
