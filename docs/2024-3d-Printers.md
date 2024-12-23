@@ -81,6 +81,25 @@ Good Brands of Filiment
 
 * [De-Burr tool](https://amzn.to/4gS0umN)
 
+* [Plastic Razor Blade Scraper](https://amzn.to/3ZP4b5G)
+
+* [3D Print Removal Tool Kit](https://amzn.to/3VOI8eo)
+
+* [Nozzle Replace Change Tools](https://amzn.to/4gtckE2)
+
+* [Torque Screwdriver](https://amzn.to/4gzloar)
+
+* [3D Printer Accessories BambuLab A1 Nozzle Brush Replacement Kit](https://amzn.to/4iMOIMf)
+
+
+# Tool Sets
+
+* [OLYCRAFT 23PCS 3D Printer Tool](https://amzn.to/4iIR2Ux)
+
+* [Economy 43 PCS 3D Printer Tool Kit](https://amzn.to/407rcSH)
+
+* [3D Printer Tool Kit, Mintion 82 Pcs](https://amzn.to/4fw7BjK)
+
 * 
 
 
