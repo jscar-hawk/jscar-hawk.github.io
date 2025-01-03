@@ -12,6 +12,8 @@ Best Barns Richmond 16-ft x 24-ft Gambrel Style Wood Outdoor Storage Shed
 $12,444
 https://www.lowes.com/pd/Best-Barns-Richmond-Without-Floor-Gambrel-Engineered-Wood-Storage-Shed-Common-16-ft-x-24-ft-Interior-Dimensions-15-42-ft-x-23-42-ft/50429780
 
+https://www.americanmadehousekits.com/house_kits
+
 
 
 = Tool Kits
