@@ -134,7 +134,9 @@ RHEL 9 does not allow root login via root by default
 ```
 cp rhel-9.4-x86_64-kvm.qcow2 rhce94-bastion.qcow2
 
-cp rhel-9.4-x86_64-kvm.qcow2 rhce94-node1.qcow2
+cp rhel-9.4-x86_64-kvm.qcow2 rhce94-server1.qcow2
+
+cp rhel-9.4-x86_64-kvm.qcow2 rhce94-server2.qcow2
 ```
 
 RHEL 9 does not allow root login via root by default, so we will need to create a user
@@ -151,8 +153,17 @@ virt-customize -a rhce94-bastion.qcow2 \
   --run-command 'echo "lab-user:TempPassword2025" | chpasswd' \
   --run-command 'usermod -aG wheel lab-user'
 ```
+Lets set up one of the servers
 
 
+```
+virt-customize -a rhce94-server1.qcow2 \
+ --root-password password:HelloPassword2025 \
+ --uninstall cloud-init \
+ --run-command 'useradd -m lab-user' \
+ --run-command 'echo "lab-user:TempPassword2025" | chpasswd' \
+ --run-command 'usermod -aG wheel lab-user'
+```
 
 
 
