@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Favorite Podcasting/AV Gear Recommendation for 2023
+title: My Favorite Podcasting/AV Gear Recommendation for 2025
 ---
 
 My Linux Audio and Video Setup
