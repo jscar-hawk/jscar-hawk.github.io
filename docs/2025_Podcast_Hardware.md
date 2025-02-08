@@ -35,6 +35,22 @@ To help fund the projects I work on, the links are Amazon Affiliate links. This 
 Daily Driver
 * [Rode PodMic](https://amzn.to/3P0mWyo)
 
+## USB audio interface:
+
+### Budget
+
+* This is an old reliable, great starter Interface
+* [BEHRINGER UM2 Audio Interface](https://amzn.to/4bUd9Us)
+
+### Intermediate
+
+* This is my daily driver
+* [Audient EVO 4](https://amzn.to/42USA6k)
+
+### Advanced
+* [RØDE X Streamer X Professional Integrated Audio Interface and 4K Video Capture Card with XLR, HDMI and TRRS Connectivity for Streaming, Gaming and Content Creation](https://amzn.to/4gBUlue)
+* This is both an advaced audio interface AND a built in Video capture card.
+* 
 
 ## Webcam and DSLR
 
