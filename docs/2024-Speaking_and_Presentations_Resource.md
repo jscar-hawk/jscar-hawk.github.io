@@ -1,4 +1,4 @@
-# Here are a few links we have found helpful in becoming better presentor.
+# Become a better presentor.
 
 7 Ways to Structure Your Presentation to Keep Your Audience Wanting More
 https://visme.co/blog/presentation-structure/
