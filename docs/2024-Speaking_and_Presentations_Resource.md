@@ -37,6 +37,13 @@ https://www.youtube.com/watch?v=hMk5s1y486I
 The magical science of storytelling | TEDxStockholm
 https://www.youtube.com/watch?v=Nj-hdQMa3uA
 
+The 110 techniques of communication and public speaking | David JP Phillips | TEDxZagreb
+https://www.youtube.com/watch?v=K0pxo-dS9Hc
+
+10 ways to hack nervousness & become high on life while doing it | David JP Philipps | TEDxLausanne
+https://www.youtube.com/watch?v=Z9UPp8FANF0
+
+
 ## *Vinh Giang* 
 
 has a youtube channel with amazing peaces of information on how to become a better presenter.
