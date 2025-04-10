@@ -34,9 +34,8 @@ description: This is my running list of blog posts
 ## Framework Laptop 
 [My Favorite Framework_Accessories](./framework_laptop_accessories.md)
 
-# Self Hosted
-
-## Security Camera
+# Speaking and Presentations Resource
+[Resources to become a better presenter ](https://github.com/jscar-hawk/jscar-hawk.github.io/blob/main/docs/2024-Speaking_and_Presentations_Resource.md)
 
 ## My Desk Setup
 
