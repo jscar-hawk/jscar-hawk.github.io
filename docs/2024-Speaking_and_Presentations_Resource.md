@@ -31,17 +31,13 @@ Walks through the 7 structures and links to actual presentations as examples
 
 ## *David JP Phillips*
 
-How to avoid death By PowerPoint | TEDxStockholmSalon
-https://www.youtube.com/watch?v=hMk5s1y486I
+[How to avoid death By PowerPoint | TEDxStockholmSalon](https://www.youtube.com/watch?v=hMk5s1y486I)
 
-The magical science of storytelling | TEDxStockholm
-https://www.youtube.com/watch?v=Nj-hdQMa3uA
+[The magical science of storytelling | TEDxStockholm](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
 
-The 110 techniques of communication and public speaking | David JP Phillips | TEDxZagreb
-https://www.youtube.com/watch?v=K0pxo-dS9Hc
+[The 110 techniques of communication and public speaking | David JP Phillips | TEDxZagreb](https://www.youtube.com/watch?v=K0pxo-dS9Hc)
 
-10 ways to hack nervousness & become high on life while doing it | David JP Philipps | TEDxLausanne
-https://www.youtube.com/watch?v=Z9UPp8FANF0
+[10 ways to hack nervousness & become high on life while doing it | David JP Philipps | TEDxLausanne](https://www.youtube.com/watch?v=Z9UPp8FANF0)
 
 
 ## *Vinh Giang* 
