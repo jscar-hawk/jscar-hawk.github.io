@@ -1,4 +1,4 @@
-# Become a better presentor.
+# Resources to become a better presenter
 
 7 Ways to Structure Your Presentation to Keep Your Audience Wanting More
 https://visme.co/blog/presentation-structure/
