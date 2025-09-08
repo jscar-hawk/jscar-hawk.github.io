@@ -29,10 +29,14 @@ description: This is my running list of blog posts
 [2024 Streaming Desk Setup](./2024_Streaming_Desk_Setup.md)
 
 
-# EDC
+# Framework Hardware
 
 ## Framework Laptop 
-[My Favorite Framework_Accessories](./framework_laptop_accessories.md)
+[My Favorite Framework_Laptop Accessories](./framework_laptop_accessories.md)
+
+## Framework Desktop
+[My Favorite Framework_Desktop Accessories](./framework_desktop_accesories.md)
+
 
 # Speaking and Presentations Resource
 [Resources to become a better presenter ](./2024-Speaking_and_Presentations_Resource.md)
