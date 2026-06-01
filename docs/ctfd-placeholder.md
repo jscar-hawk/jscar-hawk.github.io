@@ -1,4 +1,4 @@
-# CTF Registration
+# RHEL WEEK CTF Registration
 
 ## Coming Soon!
 
