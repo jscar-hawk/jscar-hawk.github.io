@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTF Registration - Coming Soon</title>
+    <style>
+        :root {
+            --bg-color: #0a0f1d;
+            --text-color: #e2e8f0;
+            --accent-color: #00ff66; /* Classic hacker green */
+            --accent-glow: rgba(0, 255, 102, 0.4);
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Courier New', Courier, monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            padding: 2rem;
+            border: 1px solid var(--accent-color);
+            border-radius: 8px;
+            background: rgba(10, 15, 29, 0.8);
+            box-shadow: 0 0 20px var(--accent-glow);
+            max-width: 90%;
+            width: 500px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: var(--accent-color);
+            text-shadow: 0 0 10px var(--accent-glow);
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .status {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+            border-right: 2px solid var(--accent-color);
+            white-space: nowrap;
+            overflow: hidden;
+            width: 100%;
+            animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+        }
+
+        p {
+            color: #94a3b8;
+            font-size: 1rem;
+        }
+
+        .glitch-art {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        /* Animations */
+        @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: var(--accent-color); }
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="glitch-art">🚩</div>
+        <h1>CTF Registration</h1>
+        <div class="status">> SYSTEM STATUS: COMING SOON...</div>
+        <p>The registration page will be available soon. Sharpen your tools and get your team ready.</p>
+    </div>
+
+</body>
+</html>
