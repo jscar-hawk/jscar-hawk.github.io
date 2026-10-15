@@ -1,3 +1,11 @@
+---
+layout: default
+title: About Me
+description: A bit about Joshua "Jscar" Loscar
+---
+
+[🏠 Home](../) · [📝 Blog](./blog.html) · [🎤 Presentations](./presentations.html) · [🔗 Socials](./socials.html)
+
 ## Welcome My point of view
 
 My Name is Joshua, But I go by Jscar.
@@ -24,3 +32,5 @@ My Name is Joshua, But I go by Jscar.
 - Raspberry Pi (35 and counting)
 
 You can follow me on Twitter [@jscar_hawk](https://twitter.com/jscar_hawk).
+
+[back](../)
