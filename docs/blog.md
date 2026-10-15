@@ -4,6 +4,7 @@ title: Blog Posts
 description: This is my running list of blog posts
 ---
 
+[🏠 Home](../) · [👤 About Me](./aboutme.html) · [🎤 Presentations](./presentations.html) · [🔗 Socials](./socials.html)
 
 # Home Lab 
 
