@@ -49,7 +49,7 @@ May 2026 · Boston, Massachusetts
 ### Red Hat Summit 2023
 **RHELevant Security Practices**
 May 2024 · Denver, Colorado
-[Slides](http://github.com/rhpds/summit_2024_RHELevant_Security_Practices_Lab_LB1964)
+[Presentation](http://github.com/rhpds/summit_2024_RHELevant_Security_Practices_Lab_LB1964)
 
 
 ### SCaLE 20x
